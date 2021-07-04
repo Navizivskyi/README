@@ -9,4 +9,4 @@
 ![alt text](https://user-images.githubusercontent.com/86780069/124353334-8a20f280-dc0e-11eb-84f1-97e150165bbb.png)
 
 -----------TASK_1-----------
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/86780069/124381767-e9453c80-dccc-11eb-95e8-17309906340b.png)
