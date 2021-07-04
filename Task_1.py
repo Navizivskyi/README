@@ -23,7 +23,7 @@ for index, i in enumerate(words):
     words[index] = words[index][0].upper() + words[index][1:-1] + words[index][-1].upper()  #Великі букви
 print("First and last capital letter:",''.join(words))
 
-maxn = 0                        #якщо нема = 0
+maxn = 0                        #якщо нема чисел в рядку = 0
 for i in numarr:
     if int(i[0]) > maxn:        #Максимальне число
         maxn = int(i[0])
